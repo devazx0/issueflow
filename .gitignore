@@ -41,7 +41,6 @@ coverage/
 .nyc_output
 
 # IDE / Editors
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -53,8 +52,6 @@ coverage/
 Thumbs.db
 
 # Environment Files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -70,3 +67,7 @@ Thumbs.db
 # PNPM
 pnpm-lock.yaml.bak
 node_modules
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
